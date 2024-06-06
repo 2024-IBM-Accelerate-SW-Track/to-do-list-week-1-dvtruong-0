@@ -4,7 +4,9 @@ export default class About extends Component {
   render() {
     return (
       <div>
-        <p>Design your About me page </p> 
+        <div classname="left">
+          <img classname="profile_image" ></img>
+        </div>
       </div>
     )
   }
